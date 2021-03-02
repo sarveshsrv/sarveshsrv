@@ -6,7 +6,9 @@
 <h1 align= "center">Flutter Developer</h1>
 
 
-<img align="left" alt="Sarvesh's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sarveshsrv&show_icons=true&hide_border=true">
+<img align="left" alt="Sarvesh's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sarveshsrv&show_icons=true&hide_border=true&title_color=00FFFF&icon_color=00FFFF&text_color=ADADAD&bg_color=2F2F2F">
 
 [twitter]: https://twitter.com/SrVsays
 [linkedin]: https://www.linkedin.com/in/sarvesh-nath-tiwari-5575a218a
+
+
