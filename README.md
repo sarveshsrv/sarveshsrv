@@ -5,13 +5,6 @@
 </div>
 <h1 align= "center">Flutter Developer</h1>
 
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-
-
 
 <img align="left" alt="Sarvesh's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sarveshsrv&show_icons=true&hide_border=true">
 
