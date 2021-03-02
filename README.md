@@ -12,6 +12,8 @@
 
 ![Sarvesh's Profile Views](https://komarev.com/ghpvc/?username=sarveshsrv&color=74ff0a)
 
+[My LinkedIn Account](https://www.linkedin.com/in/sarvesh-nath-tiwari-5575a218a)
+
 [twitter]: https://twitter.com/SrVsays
 [linkedin]: https://www.linkedin.com/in/sarvesh-nath-tiwari-5575a218a
 
