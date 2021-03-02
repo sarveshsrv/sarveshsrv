@@ -4,7 +4,13 @@
 <img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" align="center" width=200 />
 </div>
 <h1 align= "center">Flutter Developer</h1>
-- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
 
 
 <img align="left" alt="Sarvesh's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sarveshsrv&show_icons=true&hide_border=true">
