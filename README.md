@@ -3,7 +3,7 @@
 <div align="center">
 <img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" align="center" width=200 />
 </div>
-<h1 align= width=200 "center">Flutter Developer</h1>
+<h1 align= "center">Flutter Developer width=200</h1>
 
 
 
