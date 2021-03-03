@@ -24,4 +24,6 @@
 <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white"/>
 
 ## 👨 Social
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />  [My LinkedIn Account](https://www.linkedin.com/in/sarvesh-nath-tiwari-5575a218a)
+[![Linkedin Badge](https://img.shields.io/badge/-Sarvesh_Nath_Tiwari-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sarvesh-nath-tiwari-5575a218a)](https://www.linkedin.com/in/sarvesh-nath-tiwari-5575a218a)
+[![Gmail Badge](https://img.shields.io/badge/-sarveshsandilya01-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rachitt01@gmail.com)](mailto:sarveshsandilya01@gmail.com)
+<br>
