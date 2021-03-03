@@ -27,4 +27,4 @@
 <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white"/>
 
 ## 👨 Social
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> https://www.linkedin.com/in/sarvesh-nath-tiwari-5575a218a
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />  [My LinkedIn Account](https://www.linkedin.com/in/sarvesh-nath-tiwari-5575a218a)
