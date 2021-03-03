@@ -12,10 +12,7 @@
 
 ![Sarvesh's Profile Views](https://komarev.com/ghpvc/?username=sarveshsrv&color=74ff0a)
 
-[My LinkedIn Account](https://www.linkedin.com/in/sarvesh-nath-tiwari-5575a218a)
 
-[twitter]: https://twitter.com/SrVsays
-[linkedin]: https://www.linkedin.com/in/sarvesh-nath-tiwari-5575a218a
 
 ## 🚀 Skills
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
